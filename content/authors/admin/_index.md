@@ -64,14 +64,6 @@ education:
       institution: University of Mannheim and University of North Carolina at Greensboro
       year: 2020
 
-# work:
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'moritz.hartig@uni-goettingen.de'
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-
 ---
 
 ## About Me
