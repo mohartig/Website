@@ -2,19 +2,12 @@
 # Display name
 title: Moritz Hartig
 
-# Name pronunciation (optional)
-name_pronunciation: 
-
 # Full name (for SEO)
 first_name: Moritz
 last_name: Hartig
 
 # Pronouns (optional)
 pronouns: he/him
-
-# Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
