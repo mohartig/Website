@@ -27,36 +27,34 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Göttingen
+    url: https://www.uni-goettingen.de/de/667010.html
+  - name: CRC 1502 DETECT
+    url:  https://sfb1502.de/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:moritz.hartig@icloud.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://bsky.app/profile/moritzhartig.bsky.social
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/mohartig
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/in/moritz-hartig/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0009-0003-3669-8236
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Efficiency and Productivity Analysis
+  - Climate (change)
+  - Agricultural Business, Economics, and Policy
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Candidate
+    institution: University of Göttingen
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -186,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a PhD candidate in Agricultural Economics at the University of Göttingen and the CRC 1502 DETECT. My research focuses on spatial analysis, spatial downscaling, and the interaction of Climate (extremes) with productivity and efficiency of European agricultural farms.
