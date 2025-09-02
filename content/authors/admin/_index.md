@@ -46,7 +46,7 @@ interests:
   - Agricultural Business, Economics, and Policy
 
 education:
-  - area: Ph.D. Candidate
+  - area: Ph.D. Candidate (Current)
     institution: University of Göttingen
   - area: M.Sc. Developent Economics
     institution: University of Göttingen, Germany and University of Florence, Italy

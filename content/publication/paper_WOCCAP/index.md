@@ -45,7 +45,7 @@ links:
   - type: code
     url: https://github.com/mohartig
   - type: project
-    url: "https://sfb1502.de/"
+    url: "https://woccap.com/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
