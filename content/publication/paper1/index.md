@@ -26,7 +26,7 @@ abstract: Using German crop farm data from the EU Farm Accountancy Data Network 
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # hugoblox:
 #  ids:
