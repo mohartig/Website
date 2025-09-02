@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: SFB 1502 - DETECT
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Projects
+      text: A05 - Representation of adaptation: the on-farm perspective
       filters:
         folders:
           - project

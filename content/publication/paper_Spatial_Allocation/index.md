@@ -3,8 +3,8 @@ title: "Improving geographical accuracy of agricultural data (Under Review)"
 authors:
 - admin
 - S. Seifert
-- J.H. Haunert
 - S. Neuenfeldt
+- J.-H. Haunert
 - S. Hüttel
 author_notes:
 - "Equal contribution"
