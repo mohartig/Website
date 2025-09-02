@@ -1,5 +1,5 @@
 ---
-title: "n why the scientific community needs spatially explicit farm-level weather data (Work in Progress)"
+title: "On why the scientific community needs spatially explicit farm-level weather data (Work in Progress)"
 authors:
 - admin
 - T. Klett
@@ -8,7 +8,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-# date: "2025-08-01T00:00:00Z"
+# date: Work in Progress
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2025-08-15T00:00:00Z"
