@@ -1,5 +1,5 @@
 ---
-title: "Improving geographical accuracy of agricultural data"
+title: "Assessing European wheat yield gaps (Work in Progress)"
 authors:
 - admin
 - S. Seifert
@@ -8,10 +8,10 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-date: "(Work in Progress)"
+date: "2025-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "(Work in Progress)"
+# publishDate: "(Work in Progress)"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
