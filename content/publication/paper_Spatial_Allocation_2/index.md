@@ -1,36 +1,36 @@
 ---
-title: "Improving geographical accuracy of agricultural data (Under Review)"
+title: "Linking spatially implicit farm-level data to spatially explicit land use information (Work in Progress)"
 authors:
+- A. Naumann
 - admin
 - S. Seifert
-- J.H. Haunert
-- S. Neuenfeldt
 - S. Hüttel
+- J.-H. Haunert
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-# date: "2025-09-01T00:00:00Z"
+# date: "2025-08-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-09-01T00:00:00Z"
+publishDate: "2025-08-15T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-# publication_types: ["article-journal"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "GeWiSoLa Annual Conference"
+publication: ""
 publication_short: ""
 
 abstract: NA
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # hugoblox:
 #   ids:
@@ -38,7 +38,7 @@ featured: true
 
 links:
   - type: pdf
-    url: https://doi.org/10.13140/RG.2.2.16530.43202
+    url: https://moritzhartig.com/
   - type: code
     url: https://github.com/mohartig
   - type: project
