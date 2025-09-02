@@ -1,5 +1,5 @@
 ---
-title: SFB1502 - DETECT
+title: SFB1502 DETECT
 date: 2025-10-26
 links:
   - type: site
@@ -10,6 +10,6 @@ tags:
   - Interdisciplinary
 ---
 
-Within CRC1502 DETECT, we aim at improving our understanding of regional climate change beyond greenhouse gas (GHG) forcing.
+https://sfb1502.de/
 
 <!--more-->

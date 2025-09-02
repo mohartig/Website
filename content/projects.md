@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Projects
-      text: A05 - Representation of adaptation: the on-farm perspective
+      text: Representation of adaptation: the on-farm perspective
       filters:
         folders:
           - project
