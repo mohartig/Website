@@ -47,11 +47,13 @@ interests:
 
 education:
   - area: Ph.D. Candidate (Current)
-    institution: University of Göttingen
-  - area: M.Sc. Developent Economics
-    institution: University of Göttingen, Germany and University of Florence, Italy
+    institution: University of Göttingen, Germany
+  - area: M.Sc. Economics and Development Double-Degree
+    institution: University of Florence, Italy
+  - area: M.Sc. Development Economics Double-Degree
+    institution: University of Göttingen, Germany
   - area: B.Sc. Economics
-    institution: University of Mannheim
+    institution: University of Mannheim, Germany and University of North Carolina at Greensboro, USA
     
 work:
   - position: Director of Cloud Infrastructure
