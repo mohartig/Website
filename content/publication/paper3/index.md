@@ -3,19 +3,15 @@ title: "Improving geographical accuracy of agricultural data"
 authors:
 - admin
 - S. Seifert
-- J.H. Haunert
-- S. Neuenfeldt
 - S. Hüttel
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-date: "(Under Review)"
+date: "(Work in Progress)"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "(Under Review)"
+publishDate: "(Work in Progress)"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,7 +19,7 @@ publishDate: "(Under Review)"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "GeWiSoLa Annual Conference"
+publication: ""
 publication_short: ""
 
 abstract: NA
@@ -38,7 +34,7 @@ featured: false
 
 links:
   - type: pdf
-    url: https://doi.org/10.13140/RG.2.2.16530.43202
+    url: https://moritzhartig.com/
   - type: code
     url: https://github.com/mohartig
   - type: project
