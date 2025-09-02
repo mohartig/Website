@@ -11,3 +11,5 @@ tags:
 ---
 
 I was the local organizer for the first Göttingen Replication Games. The Replication Games is a one-day event that brings researchers together to collaborate on reproducing and replicating papers published in high-ranking journals. For the Replication Games, we are looking for professors, post-docs, graduate students and more broadly researchers.
+
+<!--more-->

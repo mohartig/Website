@@ -12,12 +12,12 @@ sections:
   - block: collection
     content:
       title: Projects
-      text: 'Representation of Adaptation: the on-farm perspective'
+      text: ''
       filters:
         folders:
           - project
     design:
       view: article-grid
       fill_image: false
-      columns: 2
+      columns: 3
 ---
