@@ -46,37 +46,13 @@ interests:
   - Agricultural Business, Economics, and Policy
 
 education:
-  - area: PhD Candidate
+  - area: Ph.D. Candidate
     institution: University of Göttingen
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: M.Sc. Developent Economics
+    institution: University of Göttingen, Germany and University of Florence, Italy
+  - area: B.Sc. Economics
+    institution: University of Mannheim
+    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -177,4 +153,4 @@ awards:
 
 ## About Me
 
-I'm a PhD candidate in Agricultural Economics at the University of Göttingen and the CRC 1502 DETECT. My research focuses on spatial analysis, spatial downscaling, and the interaction of Climate (extremes) with productivity and efficiency of European agricultural farms.
+I'm a PhD candidate in Agricultural Economics at the University of Göttingen and the CRC 1502 DETECT. My research focuses on spatial analysis, spatial downscaling, and the interaction of climate (extremes) with productivity and efficiency of European agricultural farms.
