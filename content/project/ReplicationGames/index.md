@@ -1,6 +1,6 @@
 ---
 title: Göttingen Replication Games
-date: 2025-04-01
+date: 2025-04-04
 links:
   - type: site
     url: https://i4replication.org/
