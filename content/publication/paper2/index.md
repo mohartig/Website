@@ -1,10 +1,14 @@
 ---
-title: "Crop farm efficiency and climate extremes in Germany"
+title: "Improving geographical accuracy of agricultural data"
 authors:
 - admin
-- Silke Hüttel
-- Stefan Seifert
+- S. Seifert
+- J.H. Haunert
+- S. Neuenfeldt
+- S. Hüttel
 author_notes:
+- "Equal contribution"
+- "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
@@ -19,10 +23,10 @@ publishDate: "2025-09-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "European Review of Agricultural Economics"
+publication: "GeWiSoLa Annual Conference"
 publication_short: ""
 
-abstract: Using German crop farm data from the EU Farm Accountancy Data Network for 2004–2020, we investigate how weather and climate extremes interact with farm-level inefficiency, accounting for policy. We use a four-component stochastic production frontier model to disentangle farm heterogeneity from persistent and transient inefficiency, and explicitly address economic and econometric endogeneity. We select weather-related determinants of inefficiency using panel random forests. We find that losses associated with one climate extreme day range from 0.15 to 26.31 Euro/hectare. Water-related extremes appear less detrimental than temperature-related extremes. Our results suggest that efficiency can be underestimated if agro-climatic conditions are not acknowledged.
+abstract: NA
 
 tags:
 - Source Themes
@@ -34,7 +38,7 @@ hugoblox:
 
 links:
   - type: pdf
-    url: https://owncloud.gwdg.de/index.php/s/60i1idIZYYSUveX
+    url: https://doi.org/10.13140/RG.2.2.16530.43202
   - type: code
     url: https://github.com/mohartig
   - type: project
@@ -42,10 +46,10 @@ links:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#  caption: 'Poster'
-#  focal_point: ""
-#  preview_only: false
+image:
+  caption: 'Poster'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
