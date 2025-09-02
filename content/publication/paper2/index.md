@@ -1,5 +1,5 @@
 ---
-title: "Improving geographical accuracy of agricultural data"
+title: "Improving geographical accuracy of agricultural data (Under Review)"
 authors:
 - admin
 - S. Seifert
@@ -12,15 +12,15 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-date: "(Under Review)"
+date: "2025-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "(Under Review)"
+# publishDate: "(Under Review)"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+# publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "GeWiSoLa Annual Conference"
